@@ -5,6 +5,9 @@
         },
         {
             "path": "src/clients/web/"
+        },
+        {
+            "path": "src/clients/mobile"
         }
     ]
 }
