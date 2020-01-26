@@ -1,8 +1,10 @@
 {
     "folders": [
         {
-            "path": "src/server/Clicker.Server"
             "path": "src/server/"
+        },
+        {
+            "path": "src/clients/web/"
         }
     ]
 }
