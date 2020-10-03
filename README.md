@@ -1,2 +1,2 @@
-#This is a readme
-:D
+# This is a readme
+So much info :D
